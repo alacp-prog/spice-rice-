@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'TheSeasonsSpringit';
+  src: url('./assets/fonts/Fontspring-DEMO-theseasons-bdit.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
