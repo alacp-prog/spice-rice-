@@ -2,10 +2,6 @@
 
 A modern and responsive Asian restaurant landing page built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. The website offers a clean design, smooth animations, and an engaging user experience across desktop, tablet, and mobile devices.
 
-## 🌐 Live Demo
-
-🔗 https://your-demo-link.vercel.app
-
 ---
 
 ## 📸 Screenshots
