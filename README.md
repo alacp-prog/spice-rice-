@@ -8,8 +8,7 @@ A modern and responsive Asian restaurant landing page built with **React**, **Vi
 ## 📸 Screenshots
 
 
-
-https://github.com/user-attachments/assets/1bfe7224-44ab-4a7b-b391-266d02ef1fdc
+<img width="3200" height="3200" alt="mob" src="https://github.com/user-attachments/assets/2a90e1bc-f5df-476b-967d-6af9fe86c45b" />
 
 <img width="2272" height="6400" alt="web" src="https://github.com/user-attachments/assets/e647900f-2d85-4391-b3f3-de631c9535b1" />
 
