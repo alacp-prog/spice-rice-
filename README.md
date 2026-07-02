@@ -1,36 +1,44 @@
 # 🍜 Spice & Rice
 
-A modern and responsive Asian restaurant landing page built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. The project showcases a clean user interface, smooth animations, and an engaging browsing experience across all devices.
+A modern and responsive Asian restaurant landing page built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. The website offers a clean design, smooth animations, and an engaging user experience across desktop, tablet, and mobile devices.
+
+## 🌐 Live Demo
+
+🔗 https://your-demo-link.vercel.app
 
 ---
 
-## 🚀 Live Demo
+## 📸 Screenshots
 
-👉 https://your-demo-link.vercel.app
+### 🏠 Home
 
----
+![Home](./assets/screenshots/home.png)
 
-## 📸 Preview
+### 🍣 Popular Dishes
 
-> Add screenshots of your application here.
+![Popular Dishes](./assets/screenshots/dishes.png)
 
-| Home | Menu |
-|------|------|
-| ![Home](./src/assets/screenshots/home.png) | ![Menu](./src/assets/screenshots/menu.png) |
+### 📖 About
+
+![About](./assets/screenshots/about.png)
+
+### 📞 Contact
+
+![Contact](./assets/screenshots/contact.png)
 
 ---
 
 ## ✨ Features
 
-- Modern and responsive design
+- Modern and elegant UI
+- Fully responsive layout
 - Smooth animations with Framer Motion
-- Hero section with call-to-action
+- Hero section with Call-to-Action
 - About section
 - Popular dishes showcase
-- Interactive menu
 - Customer testimonials
-- Contact section
-- Mobile-friendly interface
+- Contact information
+- Fast loading with Vite
 
 ---
 
@@ -46,8 +54,10 @@ A modern and responsive Asian restaurant landing page built with **React**, **Vi
 
 ## 📂 Project Structure
 
-```
+```text
 spice-rice/
+├── assets/
+│   └── screenshots/
 ├── public/
 ├── src/
 │   ├── assets/
@@ -58,12 +68,13 @@ spice-rice/
 ├── package.json
 ├── vite.config.js
 ├── tailwind.config.js
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## ⚙️ Installation
+## 🚀 Getting Started
 
 Clone the repository
 
@@ -71,7 +82,7 @@ Clone the repository
 git clone https://github.com/alacp-prog/spice-rice-.git
 ```
 
-Navigate to the project folder
+Go to the project folder
 
 ```bash
 cd spice-rice-
@@ -93,21 +104,21 @@ npm run dev
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+The application is optimized for:
 
-- Desktop
-- Tablet
-- Mobile
+- 💻 Desktop
+- 📱 Mobile
+- 📲 Tablet
 
 ---
 
-## 📌 Future Improvements
+## 🎯 Future Improvements
 
 - Online reservation system
+- Food filtering by category
 - Dark mode
-- Multi-language support
-- Interactive food gallery
 - Backend integration
+- Multi-language support
 
 ---
 
@@ -119,9 +130,9 @@ The website is optimized for:
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you like this project, please consider giving it a ⭐ on GitHub.
 
 ---
 
