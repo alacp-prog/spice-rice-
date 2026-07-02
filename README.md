@@ -1,5 +1,3 @@
-
-<img width="1922" height="5410" alt="screencapture-localhost-5173-2026-06-25-03_23_41" src="https://github.com/user-attachments/assets/99043d00-89ec-4b7b-bed0-36622a01ee3b" />
 # 🍜 Spice & Rice
 
 A modern and responsive Asian restaurant landing page built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. The website offers a clean design, smooth animations, and an engaging user experience across desktop, tablet, and mobile devices.
@@ -8,22 +6,7 @@ A modern and responsive Asian restaurant landing page built with **React**, **Vi
 
 ## 📸 Screenshots
 
-### 🏠 Home
-
-![Home](./assets/screenshots/home.png)
-
-### 🍣 Popular Dishes
-
-![Popular Dishes](./assets/screenshots/dishes.png)
-
-### 📖 About
-
-![About](./assets/screenshots/about.png)
-
-### 📞 Contact
-
-![Contact](./assets/screenshots/contact.png)
-
+<img width="1922" height="5410" alt="screencapture-localhost-5173-2026-06-25-03_23_41" src="https://github.com/user-attachments/assets/99043d00-89ec-4b7b-bed0-36622a01ee3b" />
 ---
 
 ## ✨ Features
